@@ -1,0 +1,17 @@
+../Core/Src/traffic_functions.c:23:6:Traffic1_on	8	static
+../Core/Src/traffic_functions.c:38:6:Traffic2_on	8	static
+../Core/Src/traffic_functions.c:55:6:Traffic1_off	8	static
+../Core/Src/traffic_functions.c:70:6:Traffic2_off	8	static
+../Core/Src/traffic_functions.c:87:6:Pedestrian2_on	8	static
+../Core/Src/traffic_functions.c:99:6:Pedestrian2_off	8	static
+../Core/Src/traffic_functions.c:110:6:Pedestrian1_on	8	static
+../Core/Src/traffic_functions.c:122:6:Pedestrian1_off	8	static
+../Core/Src/traffic_functions.c:133:6:task1_start	8	static
+../Core/Src/traffic_functions.c:145:6:street1_hit	8	static
+../Core/Src/traffic_functions.c:161:6:street2_hit	8	static
+../Core/Src/traffic_functions.c:176:6:orange1_delay	16	static
+../Core/Src/traffic_functions.c:188:6:orange2_delay	16	static
+../Core/Src/traffic_functions.c:200:6:orange2_delay_no_toggle	8	static
+../Core/Src/traffic_functions.c:211:6:toggle_street2	16	static
+../Core/Src/traffic_functions.c:227:6:toggle_street1	16	static
+../Core/Src/traffic_functions.c:243:6:Walking_delay	16	static

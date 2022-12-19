@@ -1,0 +1,16 @@
+../Core/Src/register.c:20:6:reset	8	static
+../Core/Src/register.c:32:6:Traffic_set	16	static
+../Core/Src/register.c:46:6:Traffic_reset	16	static
+../Core/Src/register.c:59:6:Traffic1_red	8	static
+../Core/Src/register.c:74:6:Traffic1_orange	8	static
+../Core/Src/register.c:90:6:Traffic1_green	8	static
+../Core/Src/register.c:106:6:Traffic2_red	8	static
+../Core/Src/register.c:122:6:Traffic2_orange	8	static
+../Core/Src/register.c:137:6:Traffic2_green	8	static
+../Core/Src/register.c:153:6:pedestrian_red1	8	static
+../Core/Src/register.c:168:6:pedestrian_green1	8	static
+../Core/Src/register.c:183:6:pedestrian_blue1	8	static
+../Core/Src/register.c:197:6:pedestrian_red2	8	static
+../Core/Src/register.c:212:6:pedestrian_green2	8	static
+../Core/Src/register.c:226:6:pedestrian_blue2	8	static
+../Core/Src/register.c:241:6:increment	24	static

@@ -1,0 +1,6 @@
+../Core/Src/test.c:19:6:Test_program	8	static
+../Core/Src/test.c:40:6:test_leds	8	static
+../Core/Src/test.c:94:6:test_led1	8	static
+../Core/Src/test.c:110:6:test_traffic	16	static
+../Core/Src/test.c:132:6:test_buttons	8	static
+../Core/Src/test.c:156:6:test_toggle	8	static
