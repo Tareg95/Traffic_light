@@ -59,22 +59,20 @@ Depending on implementation level, the system includes:
 
 ---
 
-## ▶️ How It Works (High-Level)
+## 📁 Project Structure
 
-1. System initializes with default traffic state  
-2. Inputs (buttons/switches) simulate pedestrians and cars  
-3. Control logic decides safe transitions  
-4. Timers enforce delays (walking time, signal delay)  
-5. Outputs update LEDs representing traffic lights  
+- `Core/` → Application code (main logic, state machines)
+- `Drivers/` → STM32 HAL drivers
+- `Traffic_Light.ioc` → STM32CubeMX configuration
+- `Debug/` → Build output files
+- `.project / .cproject` → STM32CubeIDE project files
 
----
+- ## 🧪 Setup & Build
 
-## 📚 Learning Outcomes
+1. Open the project in **STM32CubeIDE**
+2. Connect the STM32 Nucleo-L476RG board via USB
+3. Build the project
+4. Flash to the board using ST-Link
 
-This project demonstrates:
-
-- Embedded system design  
-- Real-time event handling  
-- State machine implementation  
-- Hardware-software integration  
-- Modular system architecture  
+Optional:
+- Configure hardware using `Traffic_Light.ioc`
